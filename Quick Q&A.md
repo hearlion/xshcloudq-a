@@ -1,7 +1,7 @@
 # 小帅操作系统Q&A
 
-- [Q 1: 在upgrade中,点击保存,无页面保存应该怎么办?](#q-1---upgrade------------------)
-- [And More ?](#and-more--)
+- [Q 1: 在upgrade中,点击保存,无页面保存应该怎么办?](#q-1-在upgrade中点击保存无页面保存应该怎么办)
+- [And More ?](#and-more-)
 
 ## Q 1: 在upgrade中,点击保存,无页面保存应该怎么办?
 
